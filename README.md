@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshgupta1244
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C++ programming language
+- 🌱 I’m C++ programmer
 - 📫 How to reach me - Mail - gupta.harsh6778@gmail.com
 
 <!---
