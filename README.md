@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Gupta
-- 👀 I’m in Web Development
 - 🌱 I’m C++ programmer
+- 👀 I’m into Web Development
 - 📫 How to reach me - LinkedIn: www.linkedin.com/in/harshgupta1244
 
 <!---
